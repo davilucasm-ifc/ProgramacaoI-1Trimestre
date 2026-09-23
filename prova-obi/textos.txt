@@ -1,0 +1,76 @@
+
+Sobre a OBI
+
+A Sociedade Brasileira de Computação (SBC) anuncia a realização da 26a Olimpíada Brasileira de Informática (OBI2024), uma competição organizada nos moldes das outras olimpíadas científicas brasileiras, como Matemática, Física e Astronomia. O objetivo da OBI é despertar nos alunos o interesse por uma ciência importante na formação básica hoje em dia (no caso, ciência da computação), através de uma atividade que envolve desafio, engenhosidade e uma saudável dose de competição. A organização da OBI está a cargo do Instituto de Computação da Unicamp.
+
+A OBI está organizada em duas modalidades, e cada modalidade é dividida em níveis. As duas modalidades, denominadas Programação e Iniciação, são descritas a seguir.
+
+Em todas as modalidades e níveis os alunos competem individualmente. Cada aluno poderá ser inscrito e participar em apenas uma modalidade e nível.
+
+
+
+Modalidades e níveis
+
+Modalidade Iniciação
+
+Na modalidade Iniciação, competidores que ainda não sabem programar fazem as provas com papel e lápis. As tarefas são no formato de múltipla escolha, com questões sobre lógica e raciocínio computacional. Os níveis são:
+
+Nível Júnior, para alunos do 4º e 5º anos do Ensino Fundamental;
+Nível 1, para alunos do 6º e 7º anos do Ensino Fundamental;
+Nível 2, para alunos do 8º e 9º anos do Ensino Fundamental.
+
+Modalidade Programação
+
+Na Modalidade Programação, competidores fazem as provas no computador, com tarefas de programação que podem ser resolvidas com uma linguagem de programação entre Python, C, C++, Java e Javascript. Os níveis são:
+
+Nível Júnior, para alunos de qualquer ano do Ensino Fundamental;
+Nível 1, para alunos do Ensino Fundamental ao 1º ano do Ensino Médio;
+Nível 2, para alunos do Ensino Fundamental ao 3º ano do Ensino Médio;
+Nível Sênior, para alunos do 4º ano do Ensino Técnico e alunos cursando pela primeira vez o 1º ano de um curso de graduação.
+
+
+
+Competições
+
+Olimpíada Internacional de Informática
+https://ioinformatics.org/
+
+A Olimpíada Internacional de Informática, mais conhecida pela sigla IOI (derivada do nome em inglês International Olympiad in Informatics) é a mais prestigiosa competição internacional em programação. Ela é realizada anualmente, desde 1989, cada ano em um país diferente, e congrega mais de 300 participantes de mais de oitenta países.
+
+Olimpíada Iberoamericana de Informática
+https://iberoinformatica.org/
+Em reunião realizada durante a IOI2022, os países membros da Competição Ibero-Americana de Informática e Computação (CIIC) decidiram alterar o nome do evento para Olimpíada Iberoamericana de Informática - OII.
+
+
+Olimpíada Europeia de Informática para Garotas
+https://egoi.org/
+A Olimpíada Europeia de Informática para Garotas (European Girls'' Olympiad in Informatics - EGOI) é uma competição feminina de programação inspirada pelo sucesso da Olimpíada Europeia de Matemática para Garotas (European Girls'' Mathematical Olympiad - EGMO). O formato da competição é semelhante ao de competições como a Olimpíada Internacional de Informática (International Olympiad in Informatics - IOI) e a Olimpíada da Europa Central de Informática (Central European Olympiad in Informatics - CEOI).
+
+
+
+
+Formulário
+
+Categoria:
+Resolução de questões
+Regras da competição
+Problemas no site
+Outros
+
+Níveis envolvidos
+Iniciação - Nível Júnior
+Iniciação - Nível 1
+Iniciação - Nível 2
+Programação - Nível Júnior
+Programação - Nível 1
+Programação - Nível 2
+Programação - Sênior
+
+
+
+
+
+OBI
+Link: https://olimpiada.ic.unicamp.br/
+
+

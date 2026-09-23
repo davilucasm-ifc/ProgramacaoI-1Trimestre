@@ -1,0 +1,207 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Prova Obi</title>
+</head>
+<body>
+    <header>
+        <h1>OBI-Olimpíada Brasileira de Informática</h1>
+        </header>
+        <main>
+            <section>
+            <h2>Sumário</h2>
+        <ol>
+            <li><a href="#sobreOBI">Sobre a OBI</a></li>
+            <li><a href="#modalidades">Modalidades e níveis</a>
+            <ol>
+                <li><a href="#inic">Modalidade inicialização</a></li>
+                <li><a href="#programação">Modalidade Programação</a></li>
+            </ol></li>
+            <li><a href="#videos">Vídeos</a></li>
+            <li><a href="#dúvidas">Envie suas dúvidas</a></li>
+            <li><a href="#competição">Competições</a></li>
+            <li><a href="#Patrocínio">Patrocínio/Apoio</a></li>
+        </ol>
+    </section>
+
+    <section>
+<h2 id="sobreOBI">Sobre a OBI</h2>
+<p>
+    A Sociedade Brasileira de Computação (SBC) anuncia a realização da 26a Olimpíada Brasileira de Informática (OBI2024), uma competição organizada nos moldes das outras olimpíadas científicas brasileiras, como Matemática, Física e Astronomia. O objetivo da OBI é despertar nos alunos o interesse por uma ciência importante na formação básica hoje em dia (no caso, ciência da computação), através de uma atividade que envolve desafio, engenhosidade e uma saudável dose de competição. A organização da OBI está a cargo do Instituto de Computação da Unicamp.
+</p>
+<p>
+    A OBI está organizada em duas modalidades, e cada modalidade é dividida em níveis. As duas modalidades, denominadas Programação e Iniciação, são descritas a seguir.
+</p>
+<p>
+    Em todas as modalidades e níveis os alunos competem individualmente. Cada aluno poderá ser inscrito e participar em apenas uma modalidade e nível.
+</p>
+    </section>
+    <section>
+        <h2 id="modalidades">Modalidades e níveis</h2>
+        <h3 id="inic" >Modalidade Iniciação</h3>
+        <p>
+            Na modalidade Iniciação, competidores que ainda não sabem programar fazem as provas com papel e lápis. As tarefas são no formato de múltipla escolha, com questões sobre lógica e raciocínio computacional. Os níveis são:
+        </p>
+        
+            <ul>
+                <li><strong>Nível Júnior,</strong> para alunos do 4º e 5º anos do Ensino Fundamental;
+</li>
+<li>
+    <strong>Nível 1,</strong> alunos do 6º e 7º anos do Ensino Fundamental;
+</li>
+<li><strong>Nível 2,</strong>para alunos do 8º e 9º anos do Ensino Fundamental.</li>
+            </ul>
+
+            <h3 id="programação" >Modalidades Programação</h3>
+            <p>
+                Na Modalidade Programação, competidores fazem as provas no computador, com tarefas de programação que podem ser resolvidas com uma linguagem de programação entre Python, C, C++, Java e Javascript. Os níveis são:
+            </p>
+            
+            <ul>
+                <li><strong>Nível Júnior,</strong> para alunos de qualquer ano do Ensino Fundamental;</li>
+                <li><strong>Nível 1,</strong> para alunos do Ensino Fundamental ao 1º ano do Ensino Médio;</li>
+                <li><strong>Nível 2,</strong> para alunos do Ensino Fundamental ao 3º ano do Ensino Médio;</li>
+                <li><strong>Nível Sênior,</strong> para alunos do 4º ano do Ensino Técnico e alunos cursando pela primeira vez o 1º ano de um curso de graduação.</li>
+            </ul>
+    </section>
+    <section>
+        <h2 id="videos" >Vídeos</h2>
+
+        <p><video width="320" height="220" controls
+        source src="src/videos/conditions.mp4" type="mp4">
+        <source src="src/videos/conditions.ogv" type="ogv">
+    </video>
+    
+    <video  width="320" height="220" controls
+source src="src/videos/loops.mp4" type="mp4">
+<source src="src/videos/loops.ogv" type="ogv">
+</video>
+</p>
+
+    </section>
+    <section>
+        <h2 id="dúvidas" >Envie suas dúvidas</h2>
+        <form action="#">
+
+            <p><label for="titulo"></label>*Título
+            <input id="titulo" type="text" placeholder="Insira um Título" required></p>
+            
+            <p><label for="email"></label>*Email
+            <input id="email" type="email" placeholder="Insira o seu Email" required></p>
+
+            <p>
+                <label for="selecione">Categoria</label>
+                <select id="selecione">
+                    <option value="1">Resolução de questões</option>
+                    <option value="2">Regras da competição</option>
+                    <option value="3">Problemas no site</option>
+                    <option value="4">Outros</option>
+                </select>
+            </p>
+            <p>
+               <fieldset>
+                <legend>Níveis envolvidos</legend>
+                <label>
+                    <input type="checkbox">Iniciação - Nível Júnior
+                </label>
+                 <label>
+                    <input type="checkbox">Iniciação - Nível 1
+                </label>
+                <label>
+                    <input type="checkbox">Iniciação - Nível 2
+                </label>
+                 <label>
+                    <input type="checkbox">Programação - Nível Júnior
+                </label>
+                 <label>
+                    <input type="checkbox">Programação - Nível 1
+                </label>
+                 <label>
+                    <input type="checkbox">Programação - Nível 2
+                </label>
+                <label>
+                    <input type="checkbox">Programação - Sênior
+                </label>
+               </fieldset>
+            </p>
+
+            <p>
+            <label for="duvidas">Dúvidas</label>
+            </p>
+            <p>
+            <textarea id="duvidas"></textarea>
+            </p>
+
+            <p>
+                <input required type="checkbox"> Desejo recer notificações por email sobre outras chamadas 
+            </p> 
+
+            <button type="reset">LIMPAR</button>
+            <button type="submit">ENVIAR</button>
+
+        </form>
+    </section>
+
+    <section>
+        <h2 id="competição" >Outras Competições</h2>
+
+        <ul>
+            <li>
+                <a href="https://ioinformatics.org/">Olimpíada Internacional de Informática</a>
+                <p>
+                    <img src="src/images/ioi.png" alt="">
+                </p>
+                <p>
+                    A Olimpíada Internacional de Informática, mais conhecida pela sigla IOI (derivada do nome em inglês International Olympiad in Informatics) é a mais prestigiosa competição internacional em programação. Ela é realizada anualmente, desde 1989, cada ano em um país diferente, e congrega mais de 300 participantes de mais de oitenta países.
+                </p>
+            </li>
+            <li>
+                <a href="https://iberoinformatica.org/">Olimpíada Iberoamericana de Informática</a>
+                <p>
+                    <img src="src/images/oii.png" alt="">
+                </p>
+                <p>
+                    Em reunião realizada durante a IOI2022, os países membros da Competição Ibero-Americana de Informática e Computação (CIIC) decidiram alterar o nome do evento para Olimpíada Iberoamericana de Informática - OII.
+                </p>
+            </li>
+            <li>
+                <a href="https://egoi.org/">Olimpíada Europeia de Informática para Garotas</a>
+                <p>
+                    <img src="src/images/egoi.png" alt="">
+                </p>
+                <p>
+                   A Olimpíada Europeia de Informática para Garotas (European Girls'' Olympiad in Informatics - EGOI) é uma competição feminina de programação inspirada pelo sucesso da Olimpíada Europeia de Matemática para Garotas (European Girls'' Mathematical Olympiad - EGMO). O formato da competição é semelhante ao de competições como a Olimpíada Internacional de Informática (International Olympiad in Informatics - IOI) e a Olimpíada da Europa Central de Informática (Central European Olympiad in Informatics - CEOI). 
+                </p>
+            </li>
+
+
+
+
+        </ul>
+
+    </section>
+    <section>
+        <h2 id="Patrocínio" >Patrocínio/Apoio</h2>
+        <p>
+            <img src="src/images/apoio/logo-alura.png" alt="">
+            <img src="src/images/apoio/logo-behring-2024.png" alt="">
+            <img src="src/images/apoio/logo-btg.png" alt="">
+            <img src="src/images/apoio/logo-cnpq.png" alt="">
+        </p>
+
+        <p>
+Alguns direitos reservados © 2024
+        </p>
+        <p>
+            Desinvolvido por: Murilo Antônio de Almeida
+        </p>
+        <p>
+            <a href="https://olimpiada.ic.unicamp.br/"><img src="src/images/logo-obi.png" alt=""></a>
+        </p>
+    </section>
+
+    </main>
+</body>
+</html>
